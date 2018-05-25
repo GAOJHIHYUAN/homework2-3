@@ -1,0 +1,1 @@
+(a non-constant pointer to non-constant data)
